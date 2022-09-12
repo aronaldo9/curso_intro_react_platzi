@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r https://github.com/aronaldo9/curso_intro_react_platzi"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://aronaldo9.github.io/curso_intro_react_platzi"
+  "homepage":"https://aronaldo9.github.io/curso_intro_react_platzi"
 }
